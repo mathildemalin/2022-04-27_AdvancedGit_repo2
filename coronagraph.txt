@@ -3,3 +3,6 @@
 - Lyot stop
 - detector optics
 - detector
+- 4QPM!
+- and stuff
+
